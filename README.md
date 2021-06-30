@@ -3,7 +3,7 @@
 
 Liên lạc: 
 [![Facebook](https://i.imgur.com/GRqy96ts.jpg)](https://www.facebook.com/fb.tvc)
-[![Zalo](https://i0.wp.com/s1.uphinh.org/2021/06/30/zalo.png)](https://zalo.me/zalo_tvc)
+[![zalo.th.png](https://s1.uphinh.org/2021/06/30/zalo.th.png)](https://zalo.me/zalo_tvc)
 
 Mở file config.js sửa nội dung theo mẫu
 ```
